@@ -7,3 +7,4 @@ face detection web app
 - react
 - vite
 - tachyons for styling
+- react-parallax-tilt (hover animation)
